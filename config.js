@@ -1,7 +1,7 @@
 // File://home/rose/BOT/SuryaRB/config.js
 export const Config = {
-	phone_number: "628385818401",
-	owners: ["628385818401"],
+	phone_number: "6285785718554",
+	owners: ["6289688403000"],
 	use_pairing_code: true,
 	pairing_wait: 1000 * 6,
 	prefix: ["!", "."],
